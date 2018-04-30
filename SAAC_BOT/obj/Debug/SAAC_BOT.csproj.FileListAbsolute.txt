@@ -1,0 +1,106 @@
+E:\Onedrive\Documentos\ITESCA\Semestre 7\C#\repos\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.exe.config
+E:\Onedrive\Documentos\ITESCA\Semestre 7\C#\repos\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.exe
+E:\Onedrive\Documentos\ITESCA\Semestre 7\C#\repos\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.pdb
+E:\Onedrive\Documentos\ITESCA\Semestre 7\C#\repos\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csprojResolveAssemblyReference.cache
+E:\Onedrive\Documentos\ITESCA\Semestre 7\C#\repos\SAAC_BOT\SAAC_BOT\obj\Debug\MainWindow.g.cs
+E:\Onedrive\Documentos\ITESCA\Semestre 7\C#\repos\SAAC_BOT\SAAC_BOT\obj\Debug\App.g.cs
+E:\Onedrive\Documentos\ITESCA\Semestre 7\C#\repos\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT_MarkupCompile.cache
+E:\Onedrive\Documentos\ITESCA\Semestre 7\C#\repos\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT_MarkupCompile.lref
+E:\Onedrive\Documentos\ITESCA\Semestre 7\C#\repos\SAAC_BOT\SAAC_BOT\obj\Debug\MainWindow.baml
+E:\Onedrive\Documentos\ITESCA\Semestre 7\C#\repos\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.g.resources
+E:\Onedrive\Documentos\ITESCA\Semestre 7\C#\repos\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.Properties.Resources.resources
+E:\Onedrive\Documentos\ITESCA\Semestre 7\C#\repos\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csproj.GenerateResource.Cache
+E:\Onedrive\Documentos\ITESCA\Semestre 7\C#\repos\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csproj.CoreCompileInputs.cache
+E:\Onedrive\Documentos\ITESCA\Semestre 7\C#\repos\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.exe
+E:\Onedrive\Documentos\ITESCA\Semestre 7\C#\repos\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.pdb
+E:\Downloads\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csprojResolveAssemblyReference.cache
+E:\Downloads\SAAC_BOT\SAAC_BOT\obj\Debug\MainWindow.g.cs
+E:\Downloads\SAAC_BOT\SAAC_BOT\obj\Debug\App.g.cs
+E:\Downloads\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT_MarkupCompile.cache
+E:\Downloads\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT_MarkupCompile.lref
+E:\Downloads\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.exe
+E:\Downloads\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.pdb
+E:\Downloads\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.exe.config
+E:\Downloads\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.exe
+E:\Downloads\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.pdb
+E:\Downloads\SAAC_BOT\SAAC_BOT\obj\Debug\MainWindow.baml
+E:\Downloads\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.g.resources
+E:\Downloads\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.Properties.Resources.resources
+E:\Downloads\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csproj.GenerateResource.Cache
+E:\Downloads\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csproj.CoreCompileInputs.cache
+E:\Downloads\SAAC_BOT\SAAC_BOT\obj\Debug\App.baml
+E:\Downloads\SAAC_BOT\SAAC_BOT\obj\Debug\ButtonStyles.baml
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOT\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.exe.config
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOT\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.exe
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOT\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.pdb
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csprojResolveAssemblyReference.cache
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\MainWindow.g.cs
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\App.g.cs
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT_MarkupCompile.cache
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT_MarkupCompile.lref
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\App.baml
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\ButtonStyles.baml
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\MainWindow.baml
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.g.resources
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.Properties.Resources.resources
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csproj.GenerateResource.Cache
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csproj.CoreCompileInputs.cache
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.exe
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.pdb
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.exe.config
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.exe
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.pdb
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\MainWindow.g.cs
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\App.g.cs
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT_Content.g.cs
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT_MarkupCompile.cache
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT_MarkupCompile.lref
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\App.baml
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\ButtonStyles.baml
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\MainWindow.baml
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.g.resources
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.Properties.Resources.resources
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csproj.GenerateResource.Cache
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csproj.CoreCompileInputs.cache
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.exe
+C:\Users\Laptop-Fabian\Downloads\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.pdb
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.exe.config
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.exe
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.pdb
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\Interop.SpeechLib.dll
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csproj.ResolveComReference.cache
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\MainWindow.g.cs
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\App.g.cs
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT_Content.g.cs
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT_MarkupCompile.cache
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT_MarkupCompile.lref
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\App.baml
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\ButtonStyles.baml
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\MainWindow.baml
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.g.resources
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.Properties.Resources.resources
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csproj.GenerateResource.Cache
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.exe
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.pdb
+C:\Users\mario\source\repos\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csprojResolveAssemblyReference.cache
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.exe.config
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.exe
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\bin\Debug\SAAC_BOT.pdb
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csprojResolveAssemblyReference.cache
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\Interop.SpeechLib.dll
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csproj.ResolveComReference.cache
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\MainWindow.g.cs
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\App.g.cs
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT_Content.g.cs
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT_MarkupCompile.cache
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT_MarkupCompile.lref
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\App.baml
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\ButtonStyles.baml
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\MainWindow.baml
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.g.resources
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.Properties.Resources.resources
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csproj.GenerateResource.Cache
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.csproj.CoreCompileInputs.cache
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.exe
+D:\Downloads\SAAC_BOTllenodebugs\SAAC_BOTllenodebugs\SAAC_BOT\SAAC_BOT\SAAC_BOT\obj\Debug\SAAC_BOT.pdb

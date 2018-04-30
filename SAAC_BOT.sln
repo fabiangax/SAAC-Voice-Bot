@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAAC_BOT", "SAAC_BOT\SAAC_BOT.csproj", "{0BE4DA7A-5167-465F-8DBD-D6CE17720FB2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorSAAC", "InstaladorSAAC\InstaladorSAAC.vdproj", "{F561D69F-5850-4749-9277-E4F456CFA3C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BE4DA7A-5167-465F-8DBD-D6CE17720FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE4DA7A-5167-465F-8DBD-D6CE17720FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE4DA7A-5167-465F-8DBD-D6CE17720FB2}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{0BE4DA7A-5167-465F-8DBD-D6CE17720FB2}.Debug|ARM.Build.0 = Debug|Any CPU
+		{0BE4DA7A-5167-465F-8DBD-D6CE17720FB2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0BE4DA7A-5167-465F-8DBD-D6CE17720FB2}.Debug|x64.Build.0 = Debug|Any CPU
+		{0BE4DA7A-5167-465F-8DBD-D6CE17720FB2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0BE4DA7A-5167-465F-8DBD-D6CE17720FB2}.Debug|x86.Build.0 = Debug|Any CPU
+		{0BE4DA7A-5167-465F-8DBD-D6CE17720FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE4DA7A-5167-465F-8DBD-D6CE17720FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE4DA7A-5167-465F-8DBD-D6CE17720FB2}.Release|ARM.ActiveCfg = Release|Any CPU
+		{0BE4DA7A-5167-465F-8DBD-D6CE17720FB2}.Release|ARM.Build.0 = Release|Any CPU
+		{0BE4DA7A-5167-465F-8DBD-D6CE17720FB2}.Release|x64.ActiveCfg = Release|Any CPU
+		{0BE4DA7A-5167-465F-8DBD-D6CE17720FB2}.Release|x64.Build.0 = Release|Any CPU
+		{0BE4DA7A-5167-465F-8DBD-D6CE17720FB2}.Release|x86.ActiveCfg = Release|Any CPU
+		{0BE4DA7A-5167-465F-8DBD-D6CE17720FB2}.Release|x86.Build.0 = Release|Any CPU
+		{F561D69F-5850-4749-9277-E4F456CFA3C7}.Debug|Any CPU.ActiveCfg = Debug
+		{F561D69F-5850-4749-9277-E4F456CFA3C7}.Debug|ARM.ActiveCfg = Debug
+		{F561D69F-5850-4749-9277-E4F456CFA3C7}.Debug|ARM.Build.0 = Debug
+		{F561D69F-5850-4749-9277-E4F456CFA3C7}.Debug|x64.ActiveCfg = Debug
+		{F561D69F-5850-4749-9277-E4F456CFA3C7}.Debug|x64.Build.0 = Debug
+		{F561D69F-5850-4749-9277-E4F456CFA3C7}.Debug|x86.ActiveCfg = Debug
+		{F561D69F-5850-4749-9277-E4F456CFA3C7}.Debug|x86.Build.0 = Debug
+		{F561D69F-5850-4749-9277-E4F456CFA3C7}.Release|Any CPU.ActiveCfg = Release
+		{F561D69F-5850-4749-9277-E4F456CFA3C7}.Release|ARM.ActiveCfg = Release
+		{F561D69F-5850-4749-9277-E4F456CFA3C7}.Release|ARM.Build.0 = Release
+		{F561D69F-5850-4749-9277-E4F456CFA3C7}.Release|x64.ActiveCfg = Release
+		{F561D69F-5850-4749-9277-E4F456CFA3C7}.Release|x64.Build.0 = Release
+		{F561D69F-5850-4749-9277-E4F456CFA3C7}.Release|x86.ActiveCfg = Release
+		{F561D69F-5850-4749-9277-E4F456CFA3C7}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75B21B37-F827-4D85-A132-06D72D1FF842}
+	EndGlobalSection
+EndGlobal

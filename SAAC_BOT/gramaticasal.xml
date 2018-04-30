@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<grammar version="1.0" xml:lang="es-ES"
+         xmlns="http://www.w3.org/2001/06/grammar"
+         tag-format="semantics/1.0" root="SaludoActivador">
+
+  <!-- cities.xml: 
+    Defines an SRGS grammar for requesting a flight. This grammar includes
+    a Cities rule that lists the cities that can be used for departures
+    and destinations. -->
+
+  <rule id="SaludoActivador">
+     <one-of>
+      	<item> Hey Zack </item>
+	<item> Otra cosa </item>
+      </one-of>
+  </rule>
+
+</grammar>

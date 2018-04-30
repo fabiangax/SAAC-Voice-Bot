@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<grammar version="1.0" xml:lang="es-ES"
+         xmlns="http://www.w3.org/2001/06/grammar"
+         tag-format="semantics/1.0" root="Cuestion">
+
+  <!-- cities.xml: 
+    Defines an SRGS grammar for requesting a flight. This grammar includes
+    a Cities rule that lists the cities that can be used for departures
+    and destinations. -->
+
+  <rule id="Cuestion" scope="public">
+      <one-of> 
+      	<item> en donde esta </item>
+      	<item> como puedo subrayar </item>
+      	
+	<item> abrir </item>
+	<item> buscar </item>
+	<item> obtener </item>
+      	<item> imprimir </item>
+      	<item> cerrar </item>
+     	<item> guardar </item>
+      	<item> crear </item>
+      	<item> imprimir </item>
+	<item> seleccionar </item>
+     	<item> copiar </item>
+      	<item> mover </item>
+	<item> borrar </item>
+     	<item> cambiar </item>
+      	<item> colocar </item>
+      	<item> subrayar </item>
+	<item weight="1"> insertar </item>
+	<item> cambiar </item>
+	<item> agregar </item>
+	<item> dividir </item>
+        <item> hacer </item>
+	
+	<item> como hacer </item>
+	<item> como agregar </item>
+	<item> como abrir </item>
+	<item> como obtener </item>	
+	<item> como buscar </item>
+      	<item> como imprimir </item>
+      	<item> como cerrar </item>
+     	<item> como guardar </item>
+      	<item> como crear </item>
+      	<item> como imprimir </item>
+	<item> como seleccionar </item>
+     	<item> como copiar </item>
+      	<item> como mover </item>
+	<item> como borrar </item>
+     	<item> como cambiar </item>
+      	<item> como colocar </item>
+      	<item> como subrayar </item>
+	<item weight="1"> como insertar </item>
+	<item> como cambiar </item>
+	
+	<item> como agrego </item>
+	<item weight="1"> como inserto </item>
+	<item> como abro </item>
+	<item> como obtengo </item>
+	<item> como busco </item>
+      	<item> como imprimo </item>
+      	<item> como cierro </item>
+     	<item> como guardo </item>
+      	<item> como creo </item>
+      	<item> como imprimo </item>
+	<item> como selecciono </item>
+     	<item> como copio </item>
+      	<item> como muevo </item>
+	<item> como borro </item>
+     	<item> como cambio </item>
+      	<item> como coloco </item>
+      	<item> como subrayo </item>
+	<item> como cambio </item>
+	<item> como divido </item>
+	<item> como hago </item>
+
+	<item> como puedo hacer </item>
+	<item> como puedo agregar </item>
+	<item> como puedo abrir </item>
+	<item> como puedo obtener </item>
+	<item> como puedo buscar </item>
+      	<item> como puedo imprimir </item>
+      	<item> como puedo cerrar </item>
+     	<item> como puedo guardar </item>
+      	<item> como puedo crear </item>
+      	<item> como puedo imprimir </item>
+	<item> como puedo seleccionar </item>
+     	<item> como puedo copiar </item>
+      	<item> como puedo mover </item>
+	<item> como puedo borrar </item>
+     	<item> como puedo cambiar </item>
+      	<item> como puedo colocar </item>
+	<item weight="1"> como puedo insertar </item>
+	<item> como puedo cambiar </item>
+	<item> como puedo dividir </item>
+
+      </one-of>
+      <ruleref uri="#Objeto"/>
+  </rule>
+	
+  <rule id="Objeto" scope="public">
+    <one-of>
+      <item> una pagina en blanco </item>
+      <item weight="2"> una tabla </item>
+      <item> una imagen </item>
+      <item> un documento </item>
+      <item> un archivo </item>
+      <item> una palabra </item>
+      <item> la ventana </item>
+      <item> el boton </item>
+      <item> Microsoft Word </item>
+      <item> documentos existentes </item>
+      <item> un nuevo documento </item>
+      <item> una vista previa de  <ruleref uri="#Objeto"/></item>
+      <item> texto </item>
+      <item> un parrafo </item>
+      <item> el tipo de letra </item>
+      <item> el tamanio de la letra </item>
+      <item> el texto en negritas  </item>
+      <item> texto en cursivas </item>
+      <item> un superindice </item>	
+      <item> un subindice </item>
+      <item> entre mayusculas y minusculas </item>
+      <item> el color del texto </item>
+      <item> el tamanio de la letra </item>
+      <item> el texto en negritas  </item>
+      <item> texto en cursivas </item>
+      <item> un superindice </item>
+      <item> el color de la letra </item>
+      <item> el disenio de la pagina </item>
+      <item> espacio entre renglones </item>
+      <item> bordes a la pagina </item>
+      <item> texto en columnas </item>
+      <item> Word Art </item>
+      <item> pie de pagina </item>
+      <item> un encabezado </item>
+      <item> numero de pagina </item>
+      <item> un comentario </item>
+      <item> un grafico </item>
+      <item> una forma </item>
+      <item> una figura </item>
+      <item> un hipervinculo </item>
+      <item> un salto de pagina </item>
+      <item> sangria </item>
+      <item> un espaciado </item>
+      <item> un tema </item>
+      <item> una ecuacion </item>
+      <item> un simbolo avanzado </item>
+
+      <item> simbolos avanzados </item>
+      <item> ecuaciones </item>
+      <item> temas </item>
+      <item> espaciados </item>
+      <item> saltos de paginas </item>
+      <item> hipervinculos </item>
+      <item> formas </item>
+      <item> figuras </item>
+      <item> graficos </item>
+      <item> comentarios </item>
+      <item> numeros de paginas </item>
+      <item> encabezados </item>
+      <item> pies de pagina </item>	
+      <item> espacios entre renglones </item>
+      <item> colores de letra </item>
+      <item> disenios de pagina </item>
+      <item> paginas en blanco </item>
+      <item> imagenes </item>
+      <item weight="2"> tablas </item>
+      <item> documentos </item>
+      <item> archivos </item>
+      <item> palabras </item>
+      <item> ventanas </item>
+      <item> botones </item>
+      <item> Microsoft Word </item>
+      <item> un documento existente </item>
+      <item> nuevos documentos </item>
+      <item> textos </item>
+      <item> parrafos </item>
+      <item> tipos de letra </item>
+      <item> tamanios de la letra </item>
+      <item> textos negritas  </item>
+      <item> textos en cursivas </item>
+      <item> superindices </item>	
+      <item> subindices </item>
+      <item> entre mayusculas y minusculas </item>
+      <item> colores del texto </item>	
+    </one-of>
+  </rule>
+</grammar>
