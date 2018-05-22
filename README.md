@@ -22,7 +22,7 @@ how i can print? and then the software answer.
 
 ## Built With
 
-* [System Speech](https://msdn.microsoft.com/en-us/library/gg145021(v=vs.110).aspx) - Library
+* [System Speech](https://msdn.microsoft.com/en-us/library/gg145021(v=vs.110).aspx) - Windows Library
 * [Grammar XML](https://msdn.microsoft.com/en-us/library/hh378465(v=office.14).aspx) - Build grammar syntax
 
 ## Authors
